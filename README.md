@@ -59,7 +59,7 @@ Endpoint AWS: https://a6odurddmf.execute-api.eu-west-1.amazonaws.com/dev/report
 Exemple d'utilisation depuis le browser:
 
 
-https://a6odurddmf.execute-api.eu-west-1.amazonaws.com/dev/report?review="Great build quality, great screen, great battery life and the best feature is the Face ID, quick and realible, much better and fast than a fingerprint scanner. The bad side it’s too expensive for what it is."
+<https://a6odurddmf.execute-api.eu-west-1.amazonaws.com/dev/report?review="Great build quality, great screen, great battery life and the best feature is the Face ID, quick and realible, much better and fast than a fingerprint scanner. The bad side it’s too expensive for what it is.">
 
 
 Utilisation avec Django:
